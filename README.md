@@ -1,8 +1,3 @@
-Here’s a clean, professional, and easy-to-read `README.md` for your **Mock Interview Simulator** Java project using JDBC and SQL:
-
----
-
-```markdown
 # 🎯 Mock Interview Simulator
 
 A simple, professional Java-based **Mock Interview Simulator** built with **JDBC** and **SQL**. Designed to help students or job seekers simulate technical interview questions in a console-based interface.
